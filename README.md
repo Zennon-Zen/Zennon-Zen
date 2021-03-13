@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Zennon-Zen
 - 👀 I’m interested in Tech, gaming and some programming.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning C# and GitHub!.
 
 > 📫 How to reach me on Discord: __Zennon#9035__
 
