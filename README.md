@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech, gaming and some programming.
 - 🌱 I’m currently learning C# and GitHub!.
 
-> 📫 How to reach me on Discord: __Zennon#9035__
+> 📫 You can reach me through Discord! : __Zennon#9035__
 
 <!---
 Zennon-Zen/Zennon-Zen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
